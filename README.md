@@ -1,2 +1,2 @@
 # mern
-This is a repo for mern project
+This is a repo for mern project.
